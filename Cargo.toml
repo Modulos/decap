@@ -1,0 +1,8 @@
+[package]
+name = "decap"
+version = "0.1.0"
+authors = ["Modulos <modulos@protonmail.com>"]
+
+[dependencies]
+pnet = "0.16.0"
+
